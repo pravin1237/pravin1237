@@ -1,7 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-photo/businessman-typing-wireless-keyboard_53876-101867.jpg?w=1060&t=st=1683885833~exp=1683886433~hmac=5157b2b2184771eca4b0cb84be1f03c229940d506a637442d7c4ca50909e5320)
 <h1 align="center">Hi 👋, I'm Pravin Bante</h1>
 <h3 align="center">I am an IT student passionate about cybersecurity.</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/02/55/77/44/240_F_255774493_ivKzxPsmPAoMplc2WJosh1Vw3awow0mU.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin1237&label=Profile%20views&color=0e75b6&style=flat" alt="pravin1237" /> </p>
@@ -9,6 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravin1237" alt="pravin1237" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/02/55/77/44/240_F_255774493_ivKzxPsmPAoMplc2WJosh1Vw3awow0mU.jpg">
 
 - 🌱 I’m currently learning **Cyber Security**
 
